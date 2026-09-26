@@ -1,0 +1,28 @@
+{
+  "name": "墨匣 · 小说创作编辑器",
+  "short_name": "墨匣",
+  "description": "墨匣 —— 专注小说创作的本地优先写作编辑器，稿件全部保存在本机浏览器中。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "id": "/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#131922",
+  "theme_color": "#131922",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
